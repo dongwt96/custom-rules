@@ -23,7 +23,8 @@ payload:
   - DOMAIN-SUFFIX,xueqiu.com
   - DOMAIN-SUFFIX,ovonice.com
   - DOMAIN-SUFFIX,duangks.com
-
+  - DOMAIN-SUFFIX,pic.hj25ja21a8.top
+  
   # http://127.0.0.1:9090/configs   查看配置
   # http://127.0.0.1:9090/version   查看版本
   # http://127.0.0.1:9090/providers/rules   查看rules信息
