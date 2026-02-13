@@ -1,0 +1,32 @@
+payload:
+  - DOMAIN-SUFFIX,mirror.xyz
+  - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-SUFFIX,clashios.com
+  - DOMAIN-SUFFIX,blog.bgme.me
+  - DOMAIN-SUFFIX,cloudcone.cc
+  - DOMAIN-SUFFIX,51chatgpt.info
+  - DOMAIN-SUFFIX,m.wulingate.com
+  - DOMAIN-SUFFIX,fanqiang.software-download.name
+  - DOMAIN-SUFFIX,yugogo.xyz
+  - DOMAIN-SUFFIX,vpsxb.net
+  - DOMAIN-SUFFIX,similarweb.com
+  - DOMAIN-SUFFIX,pixlr.com
+  - DOMAIN-SUFFIX,zhujiceping.com
+  - DOMAIN-SUFFIX,zh.1lib.sk
+  - DOMAIN-SUFFIX,anfuns.cc
+  - DOMAIN-SUFFIX,ovofast.com
+  - DOMAIN-SUFFIX,mvnrepository.com
+  - DOMAIN-SUFFIX,wiki.viva-la-vita.org
+  - DOMAIN-SUFFIX,asmrgay.com
+  - DOMAIN-SUFFIX,asmr.pw
+  - DOMAIN-SUFFIX,gfw.sb
+  - DOMAIN-SUFFIX,xueqiu.com
+  - DOMAIN-SUFFIX,ovonice.com
+  - DOMAIN-SUFFIX,duangks.com
+
+  # http://127.0.0.1:9090/configs   查看配置
+  # http://127.0.0.1:9090/version   查看版本
+  # http://127.0.0.1:9090/providers/rules   查看rules信息
+  # http://127.0.0.1:9090/providers/rules/localRule   查看localRule文件信息
+  # put http://127.0.0.1:9090/providers/rules/localRule    在http文件中发put请求
+  # curl -X PUT http://127.0.0.1:9097/providers/rules/localRule   命令行发put请求
