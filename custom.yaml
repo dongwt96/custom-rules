@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,pic.hj25ja21a8.top
   - DOMAIN-SUFFIX,dash.justfancy.net
   - DOMAIN-SUFFIX,api.xfltd.click
+  - DOMAIN-SUFFIX,lt3.uniss.me
   
   # http://127.0.0.1:9090/configs   查看配置
   # http://127.0.0.1:9090/version   查看版本
