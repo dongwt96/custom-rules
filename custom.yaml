@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,lt3.uniss.me
   - DOMAIN-SUFFIX,xflash.live
   - DOMAIN-SUFFIX,azyun.info
+  - DOMAIN-SUFFIX,xn--9kqz23b19z.com
   
   # http://127.0.0.1:9090/configs   查看配置
   # http://127.0.0.1:9090/version   查看版本
