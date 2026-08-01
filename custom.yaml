@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,9668688.xyz
   - DOMAIN-SUFFIX,mojie.tel
   - DOMAIN-SUFFIX,xanimu.com
+  - DOMAIN-SUFFIX,hongguoduanju.com
   
   # http://127.0.0.1:9090/configs   查看配置
   # http://127.0.0.1:9090/version   查看版本
